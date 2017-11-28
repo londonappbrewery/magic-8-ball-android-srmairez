@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="buttonText">ASK</string>
+    <string name="tittleText">Make everyday decisions easier!</string>
 </resources>
